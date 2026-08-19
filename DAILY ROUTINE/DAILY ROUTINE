@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Nyanduva Gustavu - Daily Routine</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <h1>Nyanduva Gustavu</h1>
+    <p class="subtitle">My Daily Work Routine</p>
+</header>
+
+<main>
+    <section class="routine-section">
+        <h2>Daily Schedule</h2>
+        <table class="routine-table">
+            <thead>
+                <tr>
+                    <th>Time</th>
+                    <th>Activity</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr><td>06:00 AM</td><td>Wake up &amp; Morning prayers</td></tr>
+                <tr><td>06:30 AM</td><td>Take a bath &amp; get ready</td></tr>
+                <tr><td>07:00 AM</td><td>Breakfast</td></tr>
+                <tr><td>07:30 AM</td><td>Leave for work</td></tr>
+                <tr><td>08:00 AM - 12:00 PM</td><td>Work (Morning shift)</td></tr>
+                <tr><td>12:00 PM - 01:00 PM</td><td>Lunch break</td></tr>
+                <tr><td>01:00 PM - 05:00 PM</td><td>Work (Afternoon shift)</td></tr>
+                <tr><td>05:30 PM</td><td>Return home &amp; rest</td></tr>
+                <tr><td>06:30 PM</td><td>Free time / Errands</td></tr>
+                <tr><td>07:30 PM</td><td>Dinner</td></tr>
+                <tr><td>08:30 PM</td><td>Bible study &amp; prayer</td></tr>
+                <tr><td>09:15 PM</td><td>Relax / Family time</td></tr>
+                <tr><td>10:00 PM</td><td>Sleep</td></tr>
+            </tbody>
+        </table>
+    </section>
+
+    <section class="contact-section">
+        <h2>Contact</h2>
+        <ul class="contact-list">
+            <li><strong>Phone:</strong> 0749383799</li>
+            <li><strong>Email:</strong> azrieljackson14@gmail.com</li>
+            <li><strong>Address:</strong> Arusha</li>
+        </ul>
+    </section>
+</main>
+
+<footer>
+    <p>Website created by <strong>Olumba King</strong></p>
+    <p>&copy; 2026 All rights reserved.</p>
+</footer>
+
+</body>
+</html>
